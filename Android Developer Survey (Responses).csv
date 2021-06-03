@@ -1,0 +1,161 @@
+Timestamp,How many years of professional experience do you have as an Android developer?,What presentational design pattern do you apply to your Android apps?,Which programming language do you use for Android application development?,Do you apply Uncle Bob's CLEAN Architecture to your Android applications?,Do you follow SOLID principles while developing Android applications?,Do you follow Uncle Bob's Clean Code principles while developing Android applications?,What networking library do you use?,How do you handle asynchronous events in your Android applications?,What dependency injection library do you use in your Android applications?,"Do you use Android Architecture Components in your Android applications? (LiveData, ViewModel, Room, etc.)",How many years of professional experience do you have as an Android developer?,Do you apply Uncle Bob's CLEAN Architecture to your Android applications?
+April 2020,5+,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Yes,5,1
+April 2020,3,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,No,3,1
+April 2020,1,MVVM,Java,Who the hack is Uncle Bob?,Yes,Who the hack is Uncle Bob?,Retrofit/OkHttp,AsyncTask,None,Yes,1,2
+April 2020,2,MVVM,Kotlin,Maybe,Yes,Yes,Retrofit/OkHttp,RxJava,Koin,Yes,2,3
+May 2020,4,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Yes,4,1
+May 2020,5+,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Yes,5,1
+May 2020,2,MVP,Kotlin,Maybe,Yes,No,Retrofit/OkHttp,Kotlin Coroutines,None,No,2,3
+May 2020,1,MVC,Java,Maybe,Maybe,Maybe,None,RxJava,None,Yes,1,3
+May 2020,5+,MVVM,Kotlin,Maybe,Yes,Maybe,Retrofit/OkHttp,RxJava,Dagger 2,Yes,5,3
+May 2020,2,MVC,Java,No,Yes,No,Retrofit/OkHttp,RxJava,Dagger 2,Yes,2,0
+May 2020,5+,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Yes,5,1
+May 2020,3,MVVM,Kotlin,Maybe,Maybe,Maybe,Retrofit/OkHttp,RxJava,Dagger 2,Yes,3,3
+May 2020,Less than a year,MVVM,Kotlin,Yes,Yes,Yes,None,AsyncTask,Dagger 2,Yes,0,1
+May 2020,1,MVC,Java,No,What the hack is SOLID?,No,None,Other,What the hack is DI?,Maybe,1,0
+May 2020,5+,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Yes,5,1
+May 2020,3,MVVM,Kotlin,Yes,Yes,Yes,"Retrofit/OkHttp, Apollo",Kotlin Coroutines,Dagger 2,Yes,3,1
+May 2020,2,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Koin,Yes,2,1
+May 2020,4,MVVM,Kotlin,Maybe,What the hack is SOLID?,Maybe,Ktor,Kotlin Coroutines,None,Yes,4,0
+May 2020,5+,MVVM,Kotlin,Yes,Yes,Yes,Apollo,RxJava,Dagger 2,Yes,5,1
+May 2020,2,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Koin,Yes,2,1
+May 2020,4,MVVM,Kotlin,Maybe,Maybe,Maybe,Retrofit/OkHttp,Kotlin Coroutines,None,Yes,4,2
+May 2020,5+,MVVM,Kotlin,Maybe,Maybe,Yes,Apollo,RxJava,Dagger 2,Yes,5,2
+May 2020,3,MVP,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Maybe,3,1
+June 2020,1,MVVM,Java,Maybe,Yes,Maybe,Retrofit/OkHttp,AsyncTask,None,Yes,1,2
+June 2020,Less than a year,MVVM,Java,Maybe,Maybe,Maybe,Retrofit/OkHttp,AsyncTask,None,Yes,0,2
+June 2020,5+,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Yes,5,1
+June 2020,1,MVVM,Java,No,Yes,No,Retrofit/OkHttp,AsyncTask,None,Maybe,1,0
+June 2020,3,MVP,Kotlin,Yes,Maybe,Maybe,Retrofit/OkHttp,RxJava,Dagger 2,Yes,3,1
+June 2020,2,MVVM,Kotlin,No,Yes,No,Retrofit/OkHttp,RxJava,Dagger 2,Yes,2,0
+June 2020,5+,MVP,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Yes,5,1
+June 2020,4,MVP,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Maybe,4,1
+June 2020,3,"MVP, MVVM, MVI","Java, Kotlin",Yes,Maybe,Maybe,Retrofit/OkHttp,RxJava,"Dagger 2, Koin",Yes,3,1
+June 2020,4,MVP,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Yes,4,1
+June 2020,5+,"MVP, MVVM",Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Yes,5,1
+June 2020,5+,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,"Retrofit/OkHttp, Apollo","RxJava, Kotlin Coroutines","Dagger 2, Koin",Yes,5,1
+June 2020,3,MVVM,Kotlin,Yes,Yes,Yes,"Retrofit/OkHttp, Apollo",RxJava,Dagger 2,Yes,3,1
+September 2020,5+,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,"Dagger 2, Koin",Yes,5,1
+September 2020,5+,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,None,Yes,5,1
+September 2020,5+,MVVM,"Java, Kotlin",No,Yes,No,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,5,0
+September 2020,5+,MVP,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Koin,No,5,1
+September 2020,1,MVVM,Java,No,Yes,No,Retrofit/OkHttp,AsyncTask,None,Yes,1,0
+September 2020,4,"MVVM, MVI",Kotlin,Yes,Yes,Yes,"Retrofit/OkHttp, Apollo ","RxJava, Kotlin Coroutines","Dagger 2, Koin",Yes,4,1
+September 2020,Less than a year,MVVM,"Java, Kotlin",Maybe,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,None,Yes,0,2
+September 2020,5+,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,5,1
+September 2020,2,"MVP, MVVM","Java, Kotlin",Who the hack is Uncle Bob?,Maybe,Who the hack is Uncle Bob?,Retrofit/OkHttp,AsyncTask,Dagger 2,Yes,2,3
+September 2020,5+,MVVM,Kotlin,No,Yes,Maybe,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,5,0
+September 2020,1,MVVM,"Java, Kotlin",Yes,Yes,Maybe,"Retrofit/OkHttp, Apollo",Kotlin Coroutines,"Dagger 2, Koin, Hilt",Yes,1,1
+September 2020,5+,MVVM,Kotlin,Maybe,Yes,Maybe,Retrofit/OkHttp,RxJava,Dagger 2,Yes,5,2
+September 2020,2,"MVP, MVVM","Java, Kotlin",Maybe,Maybe,Maybe,Retrofit/OkHttp,RxJava,None,Yes,2,2
+September 2020,2,MVVM,"Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,"Dagger 2, Koin",Yes,2,1
+September 2020,5+,MVVM,Kotlin,Yes,Yes,Yes,"Retrofit/OkHttp, Apollo","RxJava, Kotlin Coroutines",Dagger 2,Yes,5,1
+September 2020,4,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,"Dagger 2, Koin",Yes,4,1
+September 2020,2,"MVC, MVP","Java, Kotlin",No,What the hack is SOLID?,Maybe,Retrofit/OkHttp,"AsyncTask, Kotlin Coroutines","Dagger 2, Koin",Yes,2,0
+September 2020,5+,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Koin,Yes,5,1
+September 2020,2,MVVM,"Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,2,1
+September 2020,3,"MVP, MVVM","Java, Kotlin",Maybe,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Dagger 2,Yes,3,2
+September 2020,Less than a year,MVVM,Kotlin,Who the hack is Uncle Bob?,Yes,Who the hack is Uncle Bob?,Retrofit/OkHttp,Kotlin Coroutines,Dagger 2,Yes,0,3
+September 2020,Less than a year,MVVM,"Java, Kotlin",Maybe,Maybe,Maybe,Retrofit/OkHttp,Kotlin Coroutines,Dagger 2,Yes,0,2
+September 2020,Less than a year,MVVM,Kotlin,Maybe,Yes,Maybe,"Retrofit/OkHttp, Volley",Kotlin Coroutines,Koin,Yes,0,2
+September 2020,5+,REDUX,"Java, Kotlin",Yes,Yes,Maybe,"Retrofit/OkHttp, Apollo","RxJava, Kotlin Coroutines",Koin,Yes,5,1
+September 2020,3,MVP,"Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,3,1
+September 2020,Less than a year,"MVP, MVVM","Java, Kotlin",Maybe,Maybe,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,0,2
+September 2020,4,MVVM,"Java, Kotlin",Yes,Yes,Maybe,Retrofit/OkHttp,Kotlin Coroutines,Dagger 2,Yes,4,1
+September 2020,5+,"MVP, MVVM",Kotlin,No,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,None,Yes,5,0
+September 2020,5+,MVVM,Kotlin,Yes,No,No,Retrofit/OkHttp,Kotlin Coroutines,Koin,Yes,5,1
+September 2020,3,MVVM,"Java, Kotlin",Yes,Maybe,Maybe,Retrofit/OkHttp,Kotlin Coroutines,Koin,Yes,3,1
+September 2020,5+,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,"Retrofit/OkHttp, Volley",AsyncTask,None,Yes,5,1
+September 2020,5+,MVVM,Kotlin,No,Maybe,No,Retrofit/OkHttp,Kotlin Coroutines,None,Yes,5,0
+September 2020,5+,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Kodein,Yes,5,1
+September 2020,Less than a year,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,"Dagger 2, Koin",Yes,0,1
+September 2020,5+,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,5,1
+September 2020,5+,MVVM,Kotlin,No,Yes,No,"Retrofit/OkHttp, Apollo, None","RxJava, Kotlin Coroutines",Dagger 2,Yes,5,0
+September 2020,5+,"MVC, MVVM",Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Dagger 2,Yes,5,1
+September 2020,1,MVVM,"Java, Kotlin",Who the hack is Uncle Bob?,Maybe,Who the hack is Uncle Bob?,Retrofit/OkHttp,"AsyncTask, Kotlin Coroutines",None,Yes,1,3
+September 2020,1,"MVP, MVVM",Kotlin,Maybe,Maybe,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",None,Yes,1,2
+September 2020,1,What are you asking about?,Java,Who the hack is Uncle Bob?,Yes,Who the hack is Uncle Bob?,Retrofit/OkHttp,AsyncTask,Dagger 2,Yes,1,3
+September 2020,3,MVVM,"Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Maybe,3,1
+September 2020,2,What are you asking about?,Java,Who the hack is Uncle Bob?,What the hack is SOLID?,Who the hack is Uncle Bob?,Retrofit/OkHttp,AsyncTask,None,Yes,2,3
+September 2020,5+,MVI,"Java, Kotlin",Yes,Yes,Yes,"Retrofit/OkHttp, Apollo","RxJava, Kotlin Coroutines","Dagger 2, Koin",Yes,5,1
+September 2020,3,MVVM,Kotlin,Yes,Yes,Yes,"Retrofit/OkHttp, Volley",RxJava,Dagger 2,Yes,3,1
+September 2020,3,"MVP, MVVM, VIPER","Java, Kotlin",Yes,Yes,Maybe,Retrofit/OkHttp,RxJava,Koin,Yes,3,1
+September 2020,5+,"MVP, MVVM","Java, Kotlin",Yes,Maybe,Maybe,Retrofit/OkHttp,Kotlin Coroutines,"Dagger 2, Koin",Yes,5,1
+September 2020,4,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,"Dagger 2, Koin",Yes,4,1
+September 2020,4,"MVP, MVVM","Java, Kotlin",Yes,Maybe,Maybe,"Retrofit/OkHttp, Volley","RxJava, Kotlin Coroutines","Dagger 2, Koin, Hilt",Yes,4,1
+September 2020,3,MVVM,Kotlin,No,No,No,Retrofit/OkHttp,Kotlin Coroutines,Koin,Yes,3,0
+September 2020,5+,MVVM,Kotlin,Maybe,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,5,2
+September 2020,4,"MVVM, VIPER","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines","Dagger 2, Koin",Yes,4,1
+September 2020,5+,MVVM,"Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Hilt,Yes,5,1
+September 2020,2,MVVM,Kotlin,Maybe,Maybe,Yes,Retrofit/OkHttp,Kotlin Coroutines,None,Yes,2,2
+September 2020,4,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,RxJava,"Dagger 2, Koin",Yes,4,1
+September 2020,5+,"MVP, MVVM","Java, Kotlin",Maybe,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Koin,Yes,5,2
+September 2020,4,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines","Dagger 2, Koin",Yes,4,1
+September 2020,Less than a year,MVVM,Java,Who the hack is Uncle Bob?,Maybe,Who the hack is Uncle Bob?,Retrofit/OkHttp,AsyncTask,None,Yes,0,3
+October 2020,3,MVVM,"Java, Kotlin",No,No,No,Retrofit/OkHttp,Kotlin Coroutines,Dagger 2,Yes,3,0
+October 2020,4,MVVM,Kotlin,No,Yes,No,Retrofit/OkHttp,"RxJava, Kotlin Coroutines","Dagger 2, Hilt",Yes,4,0
+October 2020,Less than a year,MVVM,Kotlin,Who the hack is Uncle Bob?,Yes,Who the hack is Uncle Bob?,Retrofit/OkHttp,Kotlin Coroutines,Hilt,Yes,0,3
+October 2020,1,MVVM,Kotlin,No,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,"Dagger 2, Hilt",Yes,1,0
+October 2020,Less than a year,"MVC, MVP, MVVM","Java, Kotlin",No,Yes,No,Retrofit/OkHttp,"AsyncTask, Kotlin Coroutines",Dagger 2,Yes,0,0
+October 2020,5+,"MVC, MVP, MVVM, VIPER","Java, Kotlin",No,Yes,No,Retrofit/OkHttp,Kotlin Coroutines,Dagger 2,Yes,5,0
+October 2020,5+,MVVM,"Java, Kotlin",No,Maybe,Maybe,Retrofit/OkHttp,RxJava,Dagger 2,Maybe,5,0
+October 2020,Less than a year,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Dagger 2,Yes,0,1
+October 2020,2,MVVM,Kotlin,Maybe,Maybe,No,Retrofit/OkHttp,Kotlin Coroutines,None,Yes,2,2
+October 2020,5+,"MVC, MVP, MVVM, FLUX",Java,Who the hack is Uncle Bob?,Yes,Who the hack is Uncle Bob?,Retrofit/OkHttp,RxJava,Dagger 2,No,5,3
+October 2020,Less than a year,MVC,Java,Who the hack is Uncle Bob?,Maybe,Who the hack is Uncle Bob?,Volley,Other,What the hack is DI?,No,0,3
+October 2020,3,VIPER,Kotlin,No,Yes,No,Retrofit/OkHttp,Kotlin Coroutines,Koin,Yes,3,0
+October 2020,5+,MVVM,"Java, Kotlin",Who the hack is Uncle Bob?,Maybe,Who the hack is Uncle Bob?,Retrofit/OkHttp,"AsyncTask, Kotlin Coroutines",Dagger 2,Yes,5,3
+October 2020,2,MVVM,Kotlin,No,No,Maybe,Retrofit/OkHttp,Kotlin Coroutines,Dagger 2,Yes,2,0
+October 2020,5+,VIPER,Kotlin,Yes,Maybe,Yes,Apollo,RxJava,Dagger 2,No,5,1
+October 2020,Less than a year,What are you asking about?,Java,Maybe,Yes,Maybe,Retrofit/OkHttp,AsyncTask,None,Yes,0,2
+October 2020,1,"MVP, MVVM",Kotlin,Maybe,Maybe,Maybe,"Retrofit/OkHttp, Syrup",Kotlin Coroutines,Dagger 2,Yes,1,2
+October 2020,Less than a year,MVVM,Kotlin,Maybe,Yes,Yes,"Retrofit/OkHttp, Volley",Kotlin Coroutines,Dagger 2,Yes,0,2
+October 2020,2,MVC,Java,Yes,No,Yes,None,AsyncTask,Dagger 2,Yes,2,1
+October 2020,1,MVVM,"Java, Kotlin",Maybe,Maybe,Maybe,"Retrofit/OkHttp, Volley, Custom",Kotlin Coroutines,Dagger 2,Yes,1,2
+November 2020,Less than a year,What are you asking about?,Java,Who the hack is Uncle Bob?,What the hack is SOLID?,Who the hack is Uncle Bob?,Firebase,RxJava,None,No,0,3
+November 2020,1,"MVC, MVVM","Java, Kotlin",Who the hack is Uncle Bob?,What the hack is SOLID?,Who the hack is Uncle Bob?,Retrofit/OkHttp,AsyncTask,None,Yes,1,3
+November 2020,2,MVVM,Kotlin,Yes,Yes,Yes,"Retrofit/OkHttp, Apollo",RxJava,"Dagger 2, Kodein",Yes,2,1
+November 2020,5+,"MVP, MVVM","Java, Kotlin",Yes,Maybe,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,5,1
+November 2020,5+,MVVM,Kotlin,Yes,Maybe,Maybe,Retrofit/OkHttp,RxJava,Dagger 2,Yes,5,1
+November 2020,5+,"MVC, MVVM","Java, Kotlin",Maybe,What the hack is SOLID?,Yes,Retrofit/OkHttp,RxJava,None,Maybe,5,2
+November 2020,5+,MVI,Kotlin,Maybe,Maybe,Maybe,Retrofit/OkHttp,Kotlin Coroutines,"Dagger 2, Hilt",Yes,5,2
+November 2020,5+,"MVP, MVVM","Java, Kotlin",Yes,Maybe,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,5,1
+November 2020,4,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines","Dagger 2, Hilt",Yes,4,1
+November 2020,2,MVI,"Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,Other,Dagger 2,Yes,2,1
+November 2020,5+,MVI,Kotlin,No,Yes,Maybe,Retrofit/OkHttp,RxJava,Toothpic,No,5,0
+November 2020,5+,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,No,5,1
+November 2020,1,MVP,Kotlin,No,Yes,No,Retrofit/OkHttp,Kotlin Coroutines,"Dagger 2, Koin",No,1,0
+November 2020,4,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,"Retrofit/OkHttp, Apollo","RxJava, Kotlin Coroutines","Dagger 2, Koin",Yes,4,1
+November 2020,5+,"MVC, MVP, MVVM, VIPER",Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,5,1
+November 2020,2,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,"Retrofit/OkHttp, Volley","AsyncTask, Kotlin Coroutines",Koin,Yes,2,1
+November 2020,Less than a year,MVVM,Java,Maybe,Yes,Maybe,Retrofit/OkHttp,RxJava,Dagger 2,Yes,0,2
+November 2020,3,MVP,Java,Yes,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,Yes,3,1
+November 2020,Less than a year,MVVM,"Java, Kotlin",Who the hack is Uncle Bob?,Maybe,Who the hack is Uncle Bob?,Retrofit/OkHttp,"AsyncTask, Kotlin Coroutines","Dagger 2, Koin",Yes,0,3
+November 2020,1,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,RxJava,"Dagger 2, Hilt",Yes,1,1
+November 2020,1,MVVM,Kotlin,No,No,No,Firebase,Other,What the hack is DI?,Yes,1,0
+November 2020,5+,"MVP, MVVM, MVI","Java, Kotlin",Maybe,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Dagger 2,Yes,5,2
+November 2020,3,"MVC, MVVM","Java, Kotlin",No,No,Maybe,"Retrofit/OkHttp, Volley",AsyncTask,None,Yes,3,0
+November 2020,2,"MVVM, VIPER","Java, Kotlin",Yes,Yes,Yes,"Retrofit/OkHttp, Volley","RxJava, Kotlin Coroutines",None,Yes,2,1
+November 2020,1,What are you asking about?,Java,Who the hack is Uncle Bob?,What the hack is SOLID?,Who the hack is Uncle Bob?,Firebase,AsyncTask,What the hack is DI?,No,1,3
+November 2020,Less than a year,What are you asking about?,Java,Who the hack is Uncle Bob?,What the hack is SOLID?,Who the hack is Uncle Bob?,Retrofit/OkHttp,AsyncTask,What the hack is DI?,Maybe,0,3
+November 2020,5+,MVI,"Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Hilt,Yes,5,1
+March 2021,5+,"MVVM, MVI",Kotlin,Maybe,Yes,Yes,"Retrofit/OkHttp, Apollo, Ktor",Kotlin Coroutines,"Dagger 2, Koin, Hilt",Yes,5,2
+March 2021,5+,"MVP, MVVM",Kotlin,Yes,No,No,"Retrofit/OkHttp, Apollo","RxJava, Kotlin Coroutines","Dagger 2, Koin",Maybe,5,1
+March 2021,4,MVVM,Kotlin,Yes,Yes,Yes,None,Other,Dagger 2,Yes,4,1
+March 2021,5+,"MVP, MVVM, MVI","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,5,1
+March 2021,5+,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,"Dagger 2, Hilt",Yes,5,1
+March 2021,5+,MVVM,Kotlin,Who the hack is Uncle Bob?,What the hack is SOLID?,Who the hack is Uncle Bob?,Retrofit/OkHttp,Kotlin Coroutines,Koin,Yes,5,3
+March 2021,5+,MVVM,"Java, Kotlin",Yes,Yes,Yes,Retrofit/OkHttp,"AsyncTask, RxJava, Kotlin Coroutines",Dagger 2,Yes,5,1
+March 2021,5+,"MVP, MVVM","Java, Kotlin",Yes,Yes,Yes,"Retrofit/OkHttp, Apollo",Kotlin Coroutines,"Dagger 2, Koin",Yes,5,1
+March 2021,5+,"MVP, MVVM","Java, Kotlin",Maybe,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines","Dagger 2, Koin, Hilt",Yes,5,2
+March 2021,5+,MVVM,Kotlin,Maybe,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines",Dagger 2,Yes,5,2
+March 2021,3,"MVC, MVP, MVVM","Java, Kotlin",Yes,Yes,Maybe,Retrofit/OkHttp,"AsyncTask, Kotlin Coroutines",Dagger 2,Yes,3,1
+March 2021,5+,MVC,"Java, Kotlin",Maybe,No,No,Retrofit/OkHttp,Kotlin Coroutines,None,Yes,5,2
+March 2021,1,"MVP, MVVM","Java, Kotlin",Maybe,Yes,Maybe,Retrofit/OkHttp,Kotlin Coroutines,"Dagger 2, Koin",Yes,1,2
+March 2021,4,"MVC, MVP, MVVM","Java, Kotlin",Maybe,Maybe,Maybe,Retrofit/OkHttp,"AsyncTask, RxJava, Kotlin Coroutines","Dagger 2, Hilt",Yes,4,2
+March 2021,4,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,Kotlin Coroutines,Hilt,Yes,4,1
+March 2021,4,"MVP, MVVM","Java, Kotlin",Maybe,Yes,Yes,Retrofit/OkHttp,RxJava,Dagger 2,No,4,2
+March 2021,5+,"MVC, MVP","Java, Kotlin",Who the hack is Uncle Bob?,What the hack is SOLID?,Who the hack is Uncle Bob?,"Retrofit/OkHttp, Volley","AsyncTask, Kotlin Coroutines",Dagger 2,Yes,5,3
+March 2021,5+,MVVM,Kotlin,Yes,Yes,Yes,Retrofit/OkHttp,"RxJava, Kotlin Coroutines","Dagger 2, Hilt",Yes,5,1
+March 2021,Less than a year,MVVM,Kotlin,No,No,No,Retrofit/OkHttp,Kotlin Coroutines,Koin,Yes,0,0
+March 2021,5+,MVP,Java,No,Maybe,Maybe,"Retrofit/OkHttp, Volley",RxJava,Dagger 2,Maybe,5,0
